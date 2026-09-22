@@ -1,6 +1,6 @@
 # App Locker Legal & Verification Site
 
-This repository hosts the public **Privacy Policy** and Google AdMob **`app-ads.txt`** verification file for **App Locker Pro** (`com.aistudio.applocker.kyzqpz`).
+This repository hosts the public **Privacy Policy** and Google AdMob **`app-ads.txt`** verification file for **App Locker** (`com.aistudio.applocker.kyzqpz`).
 
 ## Files Included
 - `index.html`: Official Privacy Policy and Developer Contact info.
